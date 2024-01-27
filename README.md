@@ -17,7 +17,6 @@
 
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirhossain808&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirhossain808" width="400"/> </p>
 
 <a href="https://linkedin.com/in/tanvirhossain808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya vatsa" height="30" width="40" /></a>
 
@@ -31,6 +30,7 @@
 </p>
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirhossain808&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirhossain808" width="400"/> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirhossain808&" alt="saumyavatsa" /></p> <br>
