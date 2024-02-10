@@ -39,8 +39,8 @@
            
  </p> <br>
 <p>
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirhossain808" />
+<!--   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirhossain808" /> -->
 
 
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirhossain808&layout=compact&langs_count=8&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirhossain808&layout=compact&langs_count=8&card_width=320" />
 </p>
