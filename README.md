@@ -35,10 +35,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirhossain808&" alt="saumyavatsa" /></p> <br>
  <p><img align="left" alt="coding" width="400" src="https://api.daily.dev/devcards/67d1efaabcd14bacbc67d56417fe8040.png?r=a70&fbclid=IwAR3kZFm7PidLtb2UiWdICehEAfW2s82Z65YQm9XO_DW3LNMq1m5vLxZIMtM">
-             <span><a href="https://github.com/anuraghazra/github-readme-stats">
+             <span><a href="https://github.com/tanvirhossain808/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/tanvirhossain808/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a></span>
  </p> <br>
