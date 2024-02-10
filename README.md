@@ -34,6 +34,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirhossain808&" alt="saumyavatsa" /></p> <br>
+
+ </p> <br>
  <p><img align="left" alt="coding" width="400" src="https://api.daily.dev/devcards/67d1efaabcd14bacbc67d56417fe8040.png?r=a70&fbclid=IwAR3kZFm7PidLtb2UiWdICehEAfW2s82Z65YQm9XO_DW3LNMq1m5vLxZIMtM">
              <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirhossain808" />
@@ -41,4 +43,3 @@
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirhossain808&layout=compact&langs_count=8&card_width=320" />
 </p>
- </p> <br>
