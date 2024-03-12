@@ -22,14 +22,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#242938"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M93.213 222.94L50 48L223.23 97.874L93.213 222.94Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M136.583 72.9419L158.174 160.438L71.6071 135.493L136.583 72.9419Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M115.103 147.36L104.379 103.895L147.387 116.241L115.103 147.36Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M93.6509 60.4829L104.375 103.948L61.3669 91.6019L93.6509 60.4829Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M179.663 85.2598L190.387 128.725L147.379 116.379L179.663 85.2598Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M115.108 147.39L125.832 190.855L82.824 178.509L115.108 147.39Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" stroke-linecap="square" stroke-miterlimit="10" version="1.1" viewBox="0 0 226.77 226.77" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(8.964 4.2527)" fill-rule="evenodd" stroke="#000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4">
+  <path d="m63.02 200.61-43.213-174.94 173.23 49.874z"/>
+  <path d="m106.39 50.612 21.591 87.496-86.567-24.945z"/>
+  <path d="m84.91 125.03-10.724-43.465 43.008 12.346z"/>
+  <path d="m63.458 38.153 10.724 43.465-43.008-12.346z"/>
+  <path d="m149.47 62.93 10.724 43.465-43.008-12.346z"/>
+  <path d="m84.915 125.06 10.724 43.465-43.008-12.346z"/>
+ </g>
 </svg>
 </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  </a>
